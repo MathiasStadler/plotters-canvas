@@ -7,7 +7,7 @@ This is a part of plotters project. For more details, please check the following
 - For detailed documentation about this crate, check [plotters-backend on docs.rs](https://docs.rs/plotters-backend/)
 - You can also visit Plotters [Homepage](https://plotters-rs.github.io)
 
-## Testing 
+## Testing
 
 This crate needs to be tested in a browser environment. In order to test, you should install `wasm-pack` first.
 
